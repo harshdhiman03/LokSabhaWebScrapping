@@ -24,3 +24,17 @@
   1. State-wise results are analyzed by scraping data from specific state result pages.
   2. Candidate-wise information is extracted from elements with the class "cand-info".
   3. Winning candidate statistics, highest and lowest turnouts, and most competitive constituencies are calculated.
+
+
+### PARTY WISE SEAT VICTORY
+
+![Screenshot 2024-07-02 233422](https://github.com/harshdhiman03/LokSabhaWebScrapping/assets/122113456/180c30ba-24fd-4604-adf4-ef353652c0b8)
+
+
+### DISTRIBUTION OF MARGIN OF VICTORY
+
+![Screenshot 2024-07-02 233456](https://github.com/harshdhiman03/LokSabhaWebScrapping/assets/122113456/c698b50e-2367-4869-ba81-c07f2de59276)
+
+### PARTY WISE VOTE SHARE
+![Screenshot 2024-07-02 233521](https://github.com/harshdhiman03/LokSabhaWebScrapping/assets/122113456/6290f61f-6626-4e0f-9890-2e2cd5ff1371)
+
